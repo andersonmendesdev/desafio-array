@@ -19,8 +19,6 @@ const somaarray = () =>{
       ]
       let remainingPacks = []
       let summedResults = []
-      let aux = 0
-
 
       for(let i=0; i< packs1.length; i++){
         for(let j=0; j< packs2.length; j++){
