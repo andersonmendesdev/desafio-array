@@ -1,6 +1,6 @@
 #Operação com Array Javascript
 ```bash
-Uma solução, apesar que ficou com complexidade elevada.
+Primeira solução que pensei apesar que ficou com complexidade elevada.
  - Refatorar
 
 ```
