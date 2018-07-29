@@ -25,9 +25,8 @@ const somaarray = () =>{
       for(let i=0; i< packs1.length; i++){
         for(let j=0; j< packs2.length; j++){
           if(i != j){
-            aux = packs1[i].dimensions + packs2[j].dimensions
-            if(aux<296296){
-              summedResults.push(aux)
+            if((packs1[i].dimensions + packs2[j].dimensions)<296296){
+              summedResults.push((packs1[i].dimensions + packs2[j].dimensions))
               packs2.splice(j,1)
               break
             }
