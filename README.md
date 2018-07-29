@@ -1,4 +1,4 @@
-#Operação com Array Javascript
+# Operação com Array Javascript
 ```bash
 Primeira solução que pensei apesar que ficou com complexidade elevada. 
 Porém foi a que satifez já que é necessario alterar um dos array enquanto 
@@ -23,7 +23,7 @@ fazendo um push() em "summedResults", porém somente com as seguintes condiçõe
  restantes do "packs2" devem ficar para a próxima interação de soma.
  ```
 
-Arrays
+#### Arrays
 ```bash
 const packs1 = [ 
   { dimensions: 295200 },
