@@ -1,7 +1,8 @@
 #Operação com Array Javascript
 ```bash
-Primeira solução que pensei apesar que ficou com complexidade elevada. Porém foi a que satifez já que é necessario alterar um dos
-array enquanto ocorre a ação e checar o indice.
+Primeira solução que pensei apesar que ficou com complexidade elevada. 
+Porém foi a que satifez já que é necessario alterar um dos array enquanto 
+ocorre a ação e checar o indice.
  - Refatorar
 
 ```
