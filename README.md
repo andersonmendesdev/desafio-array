@@ -2,7 +2,7 @@
 ```bash
 Primeira solução que pensei apesar que ficou com complexidade elevada, 
 porém foi a que satifez já que é necessario alterar um dos array enquanto 
-ocorre a ação e checar o indice.
+ocorre o loop e checar o indice.
  - Refatorar
 
 ```
